@@ -1,0 +1,15 @@
+{
+  "name": "eyuf-stajirovka-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for EYUF Stajirovka Mini App start message",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
